@@ -7,5 +7,6 @@ In this tiny experiment, I play around to understand this concept better.
 1. How do different types of models handle multimodality in the output space?  
 [notebook](https://colab.research.google.com/drive/1QBWmQ25SbvNr9WcrRSS7BzfxMv8R8e1Q?usp=sharing)
 
-2. Visualizing and understanding multimodality in PushT.  
+2. Understanding action multimodality in PushT environment.  
 [TODO]
+[notebook](https://colab.research.google.com/drive/1TfIEibfe9K8W8rthuuyUXPEb3HIk2bRd?usp=sharing)
